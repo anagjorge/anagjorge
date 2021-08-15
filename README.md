@@ -1,3 +1,9 @@
+Hi, everyone 
+
+Sou a Ana, trabalho como técnico em mecatrônica e atualmente estou estudando programação.
+
+:seedling: Java | Javascript
+
 :rocket: Never stop learning!!
 
 <div>

@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi everyone! </h1>
 
-Sou a Ana, trabalho como técnico em mecatrônica e atualmente estou estudando programação.
+Sou a Ana e atualmente estou estudando programação.
 ##
 :seedling: Java | Javascript
 

@@ -4,7 +4,6 @@
 
 Sou a Ana e atualmente estou estudando programação.
 ##
-:seedling: Java | Javascript
 
 :rocket: Never stop learning!!
 
@@ -14,9 +13,13 @@ Sou a Ana e atualmente estou estudando programação.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagjorge&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div> 
-  <img align="center" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" height="30" width="40" alt="java"/>
-  <img align="center" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" height="30" width="40" alt="c#"/>
-  <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height="30" width="40" alt="javascript"/>
+  <img align="center" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" height="40" width="30" alt="java"/>
+  <img align="center" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" height="40" width="30" alt="c#"/>
+  <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height="40" width="30" alt="javascript"/>
+  <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" width="30" alt="springboot"/>
+  <img align="center" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" height="40" width="30" alt="angular"/>
+  
+  
 </div>
 
 

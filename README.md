@@ -1,11 +1,9 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=anagjorge&repo=anagjorge&countColorcountColor)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi everyone! </h1>
+### Hi there! 👋
 
-Sou a Ana e atualmente estou estudando programação.
+Seja bem vindo(a) ao meu Github!
 ##
-
-:rocket: Never stop learning!!
 
 <div>
   <a href=https://github.com/anagjorge>
@@ -21,9 +19,10 @@ Sou a Ana e atualmente estou estudando programação.
   
   
 </div>
-
-
+  
   ##
+
+### Conecte-se comigo
 <div>
   <a href = "mailto:anadegj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-jessica-jorge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -12,11 +12,10 @@ Seja bem vindo(a) ao meu Github!
 </div>
 <div> 
   <img align="center" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" height="40" width="30" alt="java"/>
-  <img align="center" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" height="40" width="30" alt="javascript"/>
+  <img align="center" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" height="40" width="30" alt="android"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" width="30" alt="springboot"/>
   <img align="center" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" height="40" width="30" alt="angular"/>
 
-  
   
 </div>
   

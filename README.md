@@ -12,12 +12,10 @@ Seja bem vindo(a) ao meu Github!
 </div>
 <div> 
   <img align="center" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" height="40" width="30" alt="java"/>
-  <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height="40" width="30" alt="javascript"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="40" width="30" alt="typescript">
+  <img align="center" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" height="40" width="30" alt="javascript"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" width="30" alt="springboot"/>
   <img align="center" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" height="40" width="30" alt="angular"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="30"  alt="HTML">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="30" alt="CSS">
+
   
   
 </div>

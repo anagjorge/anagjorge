@@ -1,6 +1,6 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=anagjorge&repo=anagjorge&countColorcountColor)
 
-### Hi there! 👋
+
+### Hi there! 👋 <img align="right" src="https://komarev.com/ghpvc/?username=anagjorge"/>
 
 Seja bem vindo(a) ao meu Github!
 ##
